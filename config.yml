@@ -1,0 +1,8 @@
+telegram_token: ""
+openai_api_key: ""
+openai_api_base: "https://api.groq.com/openai/v1"
+api_choice: "openai"
+assistant_prompt: "Você é o Vinícius, um estrategista de São Paulo, áries evoluído..."
+allowed_telegram_user_ids:
+  - 2140439370
+
